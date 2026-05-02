@@ -22,18 +22,6 @@ Single Recipe Page
 404 Error Page
 ![error](https://user-images.githubusercontent.com/4997491/116839716-fe302180-abf0-11eb-9ea8-d8ec9867426a.JPG)
 
-## Installation
-
-Step 1
-🍴 Fork this repo!.
-
-Step 2
-👯 Clone this repo to your local machine using https://github.com/kritika27/recipe-reactjs-api-firebase.git
-
-Step 3
-HACK AWAY! 🔨🔨🔨
-
-## Available Scripts
 
 In the project directory, you can run:
 
